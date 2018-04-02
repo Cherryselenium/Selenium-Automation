@@ -1,0 +1,25 @@
+#url info
+url=https://www.makemytrip.com/
+
+#emailid -info
+emailid=selenium008@gmail.com
+
+#password info
+password=selenium123
+
+#passenger firstname
+Firstname=Cherry
+
+#Passenger lastname
+Lastname=Sharma
+
+#Phone Number
+Pno=9890159400
+
+#Card Number
+CardNumber=4572741878023521
+#Name on card
+NameonCard=Sahil
+
+#CVV
+CVV=456

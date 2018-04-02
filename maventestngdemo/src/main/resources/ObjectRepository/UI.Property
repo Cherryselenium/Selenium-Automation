@@ -1,0 +1,27 @@
+#login button strategy
+login_icon=ch__loginIcon
+#login_xpath=.//*[@id='ch_login_icon']/span[2]
+
+#EmailId ID
+emailid_xpath=.//*[@id='ch_login_email']
+
+#Password
+Password_xpath=.//*[@id='ch_login_password']
+
+#Login Button
+BtnLogin=.//*[@id='ch_login_btn']
+
+#From Location
+FrmLocation=hp-widget__sfrom
+
+#To Location
+ToLocation=hp-widget__sTo
+
+#DateSelect Field
+DateField=hp-widget__depart
+
+#Table Datepicker
+TblDate=ui-datepicker-calendar
+
+#BtnSearch
+BtnSearch=searchBtn

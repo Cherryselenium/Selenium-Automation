@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNGSuite" parallel="false">
+  <test name="SmokeTest">
+    <classes>
+      <class name="Testscript.BaseClass"/>
+      <class name="Testscript.Logintomakemytrip"/>
+      <class name="Testscript.Makeabooking"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

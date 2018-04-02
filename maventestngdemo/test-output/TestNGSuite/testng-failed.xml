@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNGSuite]">
+  <test thread-count="5" name="SmokeTest(failed)">
+    <classes>
+      <class name="Testscript.Dropdown_ex">
+        <methods>
+          <include name="dropdowntest"/>
+        </methods>
+      </class> <!-- Testscript.Dropdown_ex -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [TestNGSuite] -->
