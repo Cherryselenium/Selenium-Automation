@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="149250" started-at="2018-03-30T22:30:13Z" finished-at="2018-03-30T22:32:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="149250" started-at="2018-03-30T22:30:13Z" finished-at="2018-03-30T22:32:42Z">
+      <class name="TestScripts.Logintomakemytrip">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestScripts.Logintomakemytrip@475530b9]" name="initialize" is-config="true" duration-ms="39872" started-at="2018-03-30T22:30:13Z" finished-at="2018-03-30T22:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestScripts.Logintomakemytrip@475530b9]" name="login" duration-ms="18715" started-at="2018-03-30T22:30:53Z" finished-at="2018-03-30T22:31:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="takescreenshot(org.testng.ITestResult)[pri:0, instance:TestScripts.Logintomakemytrip@475530b9]" name="takescreenshot" is-config="true" duration-ms="809" started-at="2018-03-30T22:31:11Z" finished-at="2018-03-30T22:31:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=Logintomakemytrip.login()[pri:0, instance:TestScripts.Logintomakemytrip@475530b9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takescreenshot -->
+      </class> <!-- TestScripts.Logintomakemytrip -->
+      <class name="TestScripts.Makeabooking">
+        <test-method status="PASS" signature="MakeBookings()[pri:0, instance:TestScripts.Makeabooking@1d057a39]" name="MakeBookings" duration-ms="87894" started-at="2018-03-30T22:31:12Z" finished-at="2018-03-30T22:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakeBookings -->
+        <test-method status="PASS" signature="takescreenshot(org.testng.ITestResult)[pri:0, instance:TestScripts.Makeabooking@1d057a39]" name="takescreenshot" is-config="true" duration-ms="1909" started-at="2018-03-30T22:32:40Z" finished-at="2018-03-30T22:32:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MakeBookings status=SUCCESS method=Makeabooking.MakeBookings()[pri:0, instance:TestScripts.Makeabooking@1d057a39] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takescreenshot -->
+      </class> <!-- TestScripts.Makeabooking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
